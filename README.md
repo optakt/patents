@@ -1,8 +1,8 @@
 # Optakt – Patents
 
-Thirteen U.S. provisional patent applications protecting the architectural foundations of autonomous AI agent operation. Filed at the United States Patent and Trademark Office, April 2026.
+Thirteen U.S. provisional patent applications protecting the architectural foundations of autonomous AI agent operation. Filed at the United States Patent and Trademark Office, 19–20 April 2026.
 
-> U.S. Provisional Patent Applications filed April 2026. All technical details, code, and related IP are fully protected and held in secure estate-managed escrow with multiple independent attorneys and trusted parties. Full public disclosure and estate plan ensure seamless continuation and clear ownership regardless of any event affecting the inventor. Patent pending.
+> U.S. Provisional Patent Applications filed 19–20 April 2026. All technical details, code, and related IP are fully protected and held in secure estate-managed escrow with multiple independent attorneys and trusted parties. Full public disclosure and estate plan ensure seamless continuation and clear ownership regardless of any event affecting the inventor. Patent pending.
 
 ---
 
