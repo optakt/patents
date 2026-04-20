@@ -90,7 +90,7 @@ Different types of AI work have fundamentally different context requirements, bu
 
 **Application No. 64/043,604 · Filed 19 April 2026 · Patent Pending**
 
-While the concept of AI agents reviewing their own history exists, current implementations are single-phase and manually triggered. This invention introduces composable multi-phase maintenance cycles that the system triggers autonomously during idle periods, with each phase operating under programmatically enforced constraints — producing reliable knowledge consolidation that scales with the agent's accumulated experience.
+While the concept of AI agents reviewing their own history exists, current implementations are single-phase with fixed triggers. This invention introduces composable multi-phase maintenance cycles triggered by idle time, accumulated knowledge volume, staleness thresholds, post-task completion hooks, or explicit scheduling — with forced maintenance windows ensuring knowledge health even in continuous-work deployments. Each phase operates under programmatically enforced constraints, producing reliable knowledge consolidation that scales with the agent's accumulated experience.
 
 ---
 
