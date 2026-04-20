@@ -1,8 +1,8 @@
 # Optakt – Patents
 
-Twelve U.S. provisional patent applications protecting the architectural foundations of autonomous AI agent operation. Filed 19 April 2026 at the United States Patent and Trademark Office.
+Thirteen U.S. provisional patent applications protecting the architectural foundations of autonomous AI agent operation. Filed at the United States Patent and Trademark Office, April 2026.
 
-> U.S. Provisional Patent Applications filed 19 April 2026. All technical details, code, and related IP are fully protected and held in secure estate-managed escrow with multiple independent attorneys and trusted parties. Full public disclosure and estate plan ensure seamless continuation and clear ownership regardless of any event affecting the inventor. Patent pending.
+> U.S. Provisional Patent Applications filed April 2026. All technical details, code, and related IP are fully protected and held in secure estate-managed escrow with multiple independent attorneys and trusted parties. Full public disclosure and estate plan ensure seamless continuation and clear ownership regardless of any event affecting the inventor. Patent pending.
 
 ---
 
@@ -99,6 +99,14 @@ While the concept of AI agents reviewing their own history exists, current imple
 **Application No. 64/043,605 · Filed 19 April 2026 · Patent Pending**
 
 Every AI agent today learns in isolation — knowledge gained by one deployment cannot benefit another. This invention enables independent agent deployments to exchange structured knowledge with cryptographic provenance and operator-controlled trust policies, creating network effects where every participating agent benefits from collective learning without any central authority owning the aggregated knowledge.
+
+---
+
+### 13 · Multi-Tenant Memory Access Control for Large Language Model Agents
+
+**Application No. 64/044,725 · Filed 20 April 2026 · Patent Pending**
+
+When AI becomes shared infrastructure serving multiple participants, each person's knowledge must remain sovereign. This invention enforces granular per-role access control over persistent agent memory at the context-assembly boundary — the point where memory becomes input to the AI. No mandatory administrator, no ceiling on participant count, and tool responses filtered by identity before the AI sees them. The architecture works with any identity model and at any structural granularity.
 
 ---
 
